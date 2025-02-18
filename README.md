@@ -1,16 +1,16 @@
 # AI for Web Development Students
 
 ## 🚀 Lesson Overview  
-In this lesson, students will learn how to use AI as a **valuable tool** in their developer journey while avoiding over-reliance. They will gain **practical skills in prompt engineering, AI-assisted coding, debugging, testing, and GPT customization**.  
+In this lesson, students will learn how to use AI as a **valuable tool** in their bootcamp journey while avoiding over-reliance. They will gain **practical skills in prompt engineering, AI-assisted coding, debugging, testing, and GPT customization**.  
 
-By the end of this lesson, students will:  
-✅ Use AI **pragmatically** without becoming dependent on it.  
-✅ Understand **how to prompt AI effectively** for optimal results.  
-✅ Be able to **design custom GPTs** to fit their workflow.  
-✅ Recognize when AI-generated answers **are suboptimal**.  
-✅ Use AI to **write and improve tests** for their code.  
-✅ Follow a **time-boxed problem-solving** approach before resorting to AI.  
-✅ Compare and experiment with **different GPTs** to find the best fit.  
+Lesson Objectives:  
+- Use AI **pragmatically** without becoming dependent on it.  
+- Understand **how to prompt AI effectively** for optimal results.  
+- Be able to **design custom GPTs** to fit their workflow.  
+- Recognize when AI-generated answers **are suboptimal**.  
+- Use AI to **write and improve tests** for their code.  
+- Follow a **time-boxed problem-solving** approach before resorting to AI.  
+- Compare and experiment with **different GPTs** to find the best fit.  
 
 ---
 
@@ -21,11 +21,11 @@ AI is revolutionizing software development by enhancing productivity, automating
 | Scenario | Use AI? |
 |----------|--------|
 | Understanding a new concept | ✅ Yes, for quick explanations |
-| Writing boilerplate code | ✅ Yes, to speed up development |
+| Writing boilerplate code | ✅ Yes, to speed up development. But be mindful in the begining, as you are learning what "boilerplate" means. |
 | Debugging an error message | ✅ Yes, but verify the solution |
-| Writing critical production code | ❌ No, AI may generate insecure code |
-| Learning a new framework | ❌ No, read official docs instead |
-| Fixing a bug you don't understand | ❌ No, first investigate yourself |
+| Writing critical project code | ❌ No, AI may generate insecure code and you might not know if it's halucinating |
+| Learning a new framework | ❌ No, read official docs instead. AI can provide out of date information. Always check the official docs for latest framework details. |
+| Fixing a bug you don't understand | ❌ No, first investigate yourself, check Stack Overflow for people who had the same exact issue. |
 
 ---
 
@@ -36,9 +36,10 @@ AI is revolutionizing software development by enhancing productivity, automating
 - Developers must **understand and validate AI-generated code** before using it.  
 - AI should be used **alongside** documentation, Stack Overflow, and human mentors.  
 
-📌 **Exercise:**  
+📌 **Exercise (5min):**  
 - Ask AI to generate code for a simple task.  
-- Analyze the output: Does it follow best practices? Is it efficient?  
+- Analyze the output: Does it follow best practices? Is it efficient?
+- Share your prompt in Slack so that the class can review the prompts together.
 
 ---
 
@@ -51,11 +52,11 @@ AI is revolutionizing software development by enhancing productivity, automating
   ✅ **Good Prompt:** "Write a secure login system using Express.js and JWT authentication. Include input validation and error handling."  
 
 📌 **Exercise:**  
-- Compare AI responses to vague vs. detailed prompts.  
-- Refine prompts to get **more accurate and useful** results.  
+- Compare AI responses(use at least 2 GPTs) to vague vs. detailed prompts.  
+- Refine prompts to get **more accurate and useful** results. Take your first prompt and improve it. Compare the results.
 
 ---
-
+<!-- TODO: Check if custom GPT options exist for non-paying accounts -->
 ### **3️⃣ Building & Customizing Your Own GPTs**  
 - Students should **explore different GPT models** to find the best fit for their workflow.  
 - Custom GPTs can be designed for **specific tasks** (e.g., AI for debugging, AI for refactoring code).  
@@ -80,7 +81,7 @@ AI is revolutionizing software development by enhancing productivity, automating
 ---
 
 ### **5️⃣ AI for Writing & Testing Code**  
-- AI can generate **unit tests** using frameworks like Jest, Mocha, or PHPUnit.  
+- AI can generate **unit tests** using pure JS, or frameworks like Jest and Mocha.  
 - Example prompt:  
   - “Write Jest unit tests for this function that validates email input.”  
 - AI-generated tests **must be reviewed** for correctness and completeness.  
