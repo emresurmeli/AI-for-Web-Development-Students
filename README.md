@@ -64,7 +64,8 @@ AI is revolutionizing software development by enhancing productivity, automating
 
 📌 **Exercise:**  
 - Research and compare different GPT models (ChatGPT, Claude, Gemini, etc.).  
-- Create a custom GPT tailored for a web development task.  
+- In Slack, tell us about their differences.
+- Create a custom GPT tailored for a web development task. Show us your prompt.  
 
 ---
 
@@ -83,12 +84,12 @@ AI is revolutionizing software development by enhancing productivity, automating
 ### **5️⃣ AI for Writing & Testing Code**  
 - AI can generate **unit tests** using pure JS, or frameworks like Jest and Mocha.  
 - Example prompt:  
-  - “Write Jest unit tests for this function that validates email input.”  
+  - “Write assertion unit tests for this function that validates a password input”  
 - AI-generated tests **must be reviewed** for correctness and completeness.  
 
 📌 **Exercise:**  
 - Write a function and use AI to generate unit tests.  
-- Run the tests and identify **gaps or improvements**.  
+- See if you can learn how to run the tests and identify **gaps or improvements** using AI.  
 
 ---
 
@@ -102,8 +103,9 @@ AI is revolutionizing software development by enhancing productivity, automating
   4️⃣ If still stuck, **ask AI**, but verify its solution.  
 
 📌 **Exercise:**  
-- Apply the **15-minute rule** to a coding challenge before using AI.  
-- Reflect on whether AI provided the best solution.  
+- Apply the **15-minute rule** to a coding challenge this week before using AI.  
+- Reflect on whether AI provided the best solution. 
+- Share on Slack when you do that and how it went. 
 
 ---
 
