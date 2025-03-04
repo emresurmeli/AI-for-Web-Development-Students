@@ -11,6 +11,7 @@ Lesson Objectives:
 - Use AI to **write and improve tests** for their code.  
 - Follow a **time-boxed problem-solving** approach before resorting to AI.  
 - Compare and experiment with **different GPTs** to find the best fit.  
+- Use AI to **generate large data sets** for your projects. 
 
 ---
 
