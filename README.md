@@ -110,7 +110,7 @@ AI is revolutionizing software development by enhancing productivity, automating
 
 ---
 
-### **7️⃣ Use AI to generate large data sets** that would take way too long to generate yourself.  
+### **7️⃣ Use AI to Generate Large Data Sets**
 - Previously we would either generate our own data sets programatically, or find an API that has the data set we need, until now:  
 
   1️⃣ Use AI to generate a large data set, such as all pokemons, all countries, trivia game rounds. (How would you word this prompt using what you learned from step 2)
