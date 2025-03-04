@@ -36,7 +36,7 @@ AI is revolutionizing software development by enhancing productivity, automating
 - Developers must **understand and validate AI-generated code** before using it.  
 - AI should be used **alongside** documentation, Stack Overflow, and human mentors.  
 
-📌 **Exercise (5min):**  
+📌 **Exercise (5 min):**  
 - Ask AI to generate code for a simple task.  
 - Analyze the output: Does it follow best practices? Is it efficient?
 - Share your prompt in Slack so that the class can review the prompts together.
@@ -51,7 +51,7 @@ AI is revolutionizing software development by enhancing productivity, automating
   ❌ **Bad Prompt:** "Write a login system."  
   ✅ **Good Prompt:** "Write a secure login system using Express.js and JWT authentication. Include input validation and error handling."  
 
-📌 **Exercise:**  
+📌 **Exercise (8 min)::**  
 - Compare AI responses(use at least 2 GPTs) to vague vs. detailed prompts.  
 - Refine prompts to get **more accurate and useful** results. Take your first prompt and improve it. Compare the results.
 
@@ -62,7 +62,7 @@ AI is revolutionizing software development by enhancing productivity, automating
 - Custom GPTs can be designed for **specific tasks** (e.g., AI for debugging, AI for refactoring code).  
 - Tools like OpenAI’s API and ChatGPT Custom Instructions allow developers to **fine-tune their own AI assistants**.  
 
-📌 **Exercise:**  
+📌 **Exercise (10 min):**  
 - Research and compare different GPT models (ChatGPT, Claude, Gemini, etc.).  
 - In Slack, tell us about their differences.
 - Create a custom GPT tailored for a web development task. Show us your prompt.  
@@ -75,7 +75,7 @@ AI is revolutionizing software development by enhancing productivity, automating
 - Example:  
   - AI-generated code may **miss edge cases** or use **deprecated functions**.  
 
-📌 **Exercise:**  
+📌 **Exercise (5 min):**  
 - Ask AI to write a function, then review it for errors or inefficiencies.  
 - Discuss how to **improve and refactor** AI-generated code.  
 
@@ -87,9 +87,9 @@ AI is revolutionizing software development by enhancing productivity, automating
   - “Write assertion unit tests for this function that validates a password input”  
 - AI-generated tests **must be reviewed** for correctness and completeness.  
 
-📌 **Exercise:**  
-- Write a function and use AI to generate unit tests.  
-- See if you can learn how to run the tests and identify **gaps or improvements** using AI.  
+📌 **Exercise (15 min):**  
+- Use AI to generate unit tests for one of your previous labs. Use `console.assert()` as a testing method. 
+- See if you can learn(using AI) how to run the tests and identify **gaps or improvements** using AI.  
 
 ---
 
@@ -102,10 +102,23 @@ AI is revolutionizing software development by enhancing productivity, automating
   3️⃣ Ask a **teacher or mentor** for help.  
   4️⃣ If still stuck, **ask AI**, but verify its solution.  
 
-📌 **Exercise:**  
+📌 **Homework Exercise:**  
 - Apply the **15-minute rule** to a coding challenge this week before using AI.  
 - Reflect on whether AI provided the best solution. 
 - Share on Slack when you do that and how it went. 
+
+---
+
+### **7️⃣ Use AI to generate large data sets** that would take way too long to generate yourself.  
+- Previously we would either generate our own data sets programatically, or find an API that has the data set we need, until now:  
+
+  1️⃣ Use AI to generate a large data set, such as all pokemons, all countries, trivia game rounds. (How would you word this prompt using what you learned from step 2)
+  2️⃣ See the generated data, and fine tune it by adding more properties to each data, such as, "Re-generate the countries data and add country code and capital to each country"  
+
+📌 **Exercise (10 min):**  
+- Think about your Unit 1 project game. If it needs any data, go ahead and generate it using AI.
+- Google search if the data for your game can come from an external API. (You can use AI to ask it to find the API for you)
+- Compare your AI generated data set to the API data set and choose which one to use for your game.
 
 ---
 
@@ -138,7 +151,3 @@ AI is revolutionizing software development by enhancing productivity, automating
 🔹 Experiment with **different GPTs** to see which one fits your needs.  
 🔹 Try designing a **custom GPT** for a web development task.  
 🔹 Practice writing **better prompts** and refining AI-generated code.  
-
----
-
-**💡 Ready to level up your AI-assisted development skills? Start coding! 🚀**
